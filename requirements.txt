@@ -6,3 +6,4 @@ seaborn==0.12.2
 ydata_profiling==4.1.2
 watermark==2.3.1
 IPython==8.11.0
+voila==0.4.0
